@@ -22,7 +22,7 @@ This project analyzes HR employee data using Power BI.
 - Excel
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](Dashboard%20screenshot%201.png)
+![Dashboard Screenshot](Dashboard_screenshot_1.png)
 
 ## Created By
 Priyanka HN
